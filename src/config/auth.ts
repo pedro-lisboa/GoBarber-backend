@@ -1,7 +1,6 @@
-// a13edac4d353aca6906df05d5f3b39c8 é o token que nunca pode ser enviado ao front-end (gerado no site md5 online)
 export default {
-    jwt: {
-        secret: 'a13edac4d353aca6906df05d5f3b39c8',
-        expiresIn: '1d',
-    },
+  jwt: {
+    secret: '24afaaa5f7f8c6df39385b3ca9c71399',
+    expiresIn: '1d',
+  },
 };
